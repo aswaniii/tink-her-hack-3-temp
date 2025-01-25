@@ -4,13 +4,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [pioneers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aiswarya Ajayan] - [GEC Thrissur]
+- Member 2: [Aswani Santhosh T] - [Gec Thrissur]
+- Member 3: [Devanjana M S] - [Gec Thrissur]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
