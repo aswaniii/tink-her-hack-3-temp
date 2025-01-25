@@ -1,6 +1,6 @@
 
 
-# [Project Name] 🎯
+# [PARKAR-SMART PARKING SYSTEM] 🎯
 
 
 ## Basic Details
