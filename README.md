@@ -1,6 +1,6 @@
 
 
-# [PARKAR-SMART PARKING SYSTEM] 🎯
+# [SMART PARKING SYSTEM] 🎯
 
 
 ## Basic Details
