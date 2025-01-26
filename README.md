@@ -62,10 +62,14 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Smart Parking - Google Chrome 26-01-2025 10_21_57](https://github.com/user-attachments/assets/91d059b0-03eb-43f7-8071-e5504467de15)
+-It shows the frontend of our website.
 
 ![smartparking_](https://github.com/user-attachments/assets/e62f4ca1-1f9e-419a-aac9-3787bc92f66d)
+-It shows the filled features of website.
 
 ![repo](https://github.com/user-attachments/assets/cbbe6f2a-493f-4228-ba5e-21dd684edb36)
+A glimpse through our code.
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
