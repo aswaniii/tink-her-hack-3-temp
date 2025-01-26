@@ -61,8 +61,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Smart Parking - Google Chrome 26-01-2025 10_21_57](https://github.com/user-attachments/assets/fddfc531-aeb0-40d1-87fd-a2f64175e922)
-![repo](https://github.com/user-attachments/assets/9c678a2e-12f2-41df-8841-9e52ab3e7869)
+![Smart Parking - Google Chrome 26-01-2025 10_21_57](https://github.com/user-attachments/assets/91d059b0-03eb-43f7-8071-e5504467de15)
+
+![smartparking_](https://github.com/user-attachments/assets/e62f4ca1-1f9e-419a-aac9-3787bc92f66d)
+
+![repo](https://github.com/user-attachments/assets/cbbe6f2a-493f-4228-ba5e-21dd684edb36)
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
