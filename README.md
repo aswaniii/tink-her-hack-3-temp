@@ -68,7 +68,7 @@ For Software:
 -It shows the filled features of website.
 
 ![repo](https://github.com/user-attachments/assets/cbbe6f2a-493f-4228-ba5e-21dd684edb36)
-A glimpse through our code.
+A glimpse at our repo.
 
 
 # Diagrams
