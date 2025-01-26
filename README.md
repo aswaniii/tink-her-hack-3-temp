@@ -13,7 +13,7 @@
 - Member 3: [Devanjana M S] - [Gec Thrissur]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://aswaniii.github.io/smart-parking/
 
 ### Project Description
 The Smart Parking System Website is a web-based solution designed to simplify the process of finding,reserving,and managing parking spots.It offers the real time parking availability,booking fuctionality,and payment integration to help users find and secure parking easily,while parking lot owners can efficiently manage parking spots ,track occupancy ,and optimize usage.
