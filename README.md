@@ -99,6 +99,7 @@ For Hardware:
 ### Project Demo
 # Video
 https://youtu.be/daNKaV-_tm4
+It is the frontend of our website.In this walkthrough, we showcase the essential features that enhance your parking experience from easy login to real time parking space availability,every detail is crafted for efficiency and convenience.
 
 # Additional Demos
 [Add any extra demo materials/links]
