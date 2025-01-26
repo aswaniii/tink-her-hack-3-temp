@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Parking</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Smart Parking</h1>
+    <form id="parkingForm">
+      <label for="date">Date:</label>
+      <input type="date" id="date" required>
+
+      <label for="time">Time:</label>
+      <input type="time" id="time" required>
+
+      <label for="vehicleType">Vehicle Type:</label>
+      <select id="vehicleType" required>
+        <option value="car">Car</option>
+        <option value="bike">Bike</option>
+        <option value="truck">Truck</option>
+      </select>
+
+      <button type="button" onclick="checkAvailability()">Check Availability</button>
+    </form>
+
+    <div id="slots"></div>
+
+    <div id="bookingForm" style="display: none;">
+      <h2>Book Your Slot</h2>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <button type="button" onclick="bookSlot()">Book Now</button>
+      </form>
+    </div>
+
+    <div id="paymentForm" style="display: none;">
+      <h2>Payment</h2>
+      <form>
+        <label for="cardNumber">Card Number:</label>
+        <input type="text" id="cardNumber" required>
+
+        <label for="expiry">Expiry Date:</label>
+        <input type="text" id="expiry" required>
+
+        <label for="cvv">CVV:</label>
+        <input type="text" id="cvv" required>
+
+        <button type="button" onclick="processPayment()">Pay Now</button>
+      </form>
+    </div>
+
+    <div id="confirmation" style="display: none;">
+      <h2>Booking Confirmed!</h2>
+      <p>Your slot has been successfully booked.</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
