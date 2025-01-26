@@ -1,16 +1,16 @@
 
 
-# [SMART PARKING SYSTEM] 🎯
+# SMART PARKING SYSTEM 🎯
 
 
 ## Basic Details
-### Team Name: [pioneers]
+### Team Name: pioneers
 
 
 ### Team Members
-- Member 1: [Aiswarya Ajayan] - [GEC Thrissur]
-- Member 2: [Aswani Santhosh T] - [Gec Thrissur]
-- Member 3: [Devanjana M S] - [Gec Thrissur]
+- Member 1: Aiswarya Ajayan - GEC Thrissur
+- Member 2: Aswani Santhosh T - Gec Thrissur
+- Member 3: Devanjana M S - Gec Thrissur
 
 ### Hosted Project Link
 https://aswaniii.github.io/smart-parking/
@@ -106,9 +106,9 @@ It is the frontend of our website.In this walkthrough, we showcase the essential
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [AISWARYA AJAYAN]: [Specific contributions]
-- [ASWANI SANTHOSH T]: [Specific contributions]
-- [DEVANJANA M S]: [Specific contributions]
+- AISWARYA AJAYAN: Specific contributions
+- ASWANI SANTHOSH T: Specific contributions
+- DEVANJANA M S: Specific contributions
 
 ---
 Made with ❤️ at TinkerHub
