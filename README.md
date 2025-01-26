@@ -93,9 +93,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [AISWARYA AJAYAN]: [Specific contributions]
+- [ASWANI SANTHOSH T]: [Specific contributions]
+- [DEVANJANA M S]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
