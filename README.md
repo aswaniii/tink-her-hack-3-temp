@@ -16,7 +16,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -27,10 +27,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JavaScript,Python
+- Flask
+- SQLite,SQLAlchemy
+- Visual Studio Code, Github
 
 For Hardware:
 - [List main components]
