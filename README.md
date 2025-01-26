@@ -98,8 +98,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/daNKaV-_tm4
 
 # Additional Demos
 [Add any extra demo materials/links]
